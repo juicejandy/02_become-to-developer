@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Строки и списки/Индексы и срезы.md",
+                "file": "Django/Модель MTV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Индексы и срезы"
+              "title": "Модель MTV"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLI Linux/Пайплайн.md",
+                "file": "Django/Модель MTV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пайплайн"
+              "title": "Модель MTV"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,20 +172,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84641fc1ad661521",
+  "active": "a8816a643e1b371b",
   "lastOpenFiles": [
+    "Python/Строки и списки/Индексы и срезы.md",
+    "Django/Модель MTV.md",
+    "Django/Установка django.md",
+    "Django/Виртуальное окружение.md",
+    "Django/Untitled",
     "CLI Linux/Грепаем файлы.md",
+    "Django",
+    "Python/Строки и списки/Введение в строки. Базовые операции.md",
+    "Python/Строки и списки/Спецсимволы и экранирование символов.md",
+    "Python/Строки и списки/Основные методы строк.md",
+    "Python/Строки и списки/Форматирование строк и F-строки.md",
+    "CLI Linux/Пайплайн.md",
     "CLI Linux/Манипулирование файловой структурой.md",
     "CLI Linux/Очистить порт.md",
     "CLI Linux/Переменные окружения.md",
     "CLI Linux/Чтение файлов.md",
     "CLI Linux/ПОТОКИ.md",
-    "CLI Linux/Пайплайн.md",
-    "CLI Linux/Linux commands.md",
-    "Python/Строки и списки/Спецсимволы и экранирование символов.md",
-    "Python/Строки и списки/Введение в строки. Базовые операции.md",
-    "Python/Строки и списки/Индексы и срезы.md",
-    "Python/Строки и списки/Основные методы строк.md",
-    "Python/Строки и списки/Форматирование строк и F-строки.md"
+    "CLI Linux/Linux commands.md"
   ]
 }
